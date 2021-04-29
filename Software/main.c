@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void main()
+int main()
 {
 
 int i;
@@ -25,5 +25,6 @@ for(i=-3;i<=5;i++){
         	printf("el resultado es negativo\n",i);
    		 }
 	}
+return 0;
 }
 
