@@ -24,6 +24,11 @@ for(i=-3;i<=5;i++){
 
         	printf("el resultado es negativo\n",i);
    		 }
+	
+		if(i>5){
+			
+		printf("Número no válido");
+		}	
 	}
 return 0;
 }
